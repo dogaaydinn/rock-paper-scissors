@@ -36,7 +36,7 @@ When you start the game, you can choose from the following options:
 
 ### Exiting the Game
 
-1. Select "Exit" to close the game.
+1. Select "Exit(3)" to close the game.
 
 ## Game Rules
 
